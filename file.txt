@@ -1,4 +1,4 @@
-Manish
+Cory
 I am using git
 In the terminal
 
