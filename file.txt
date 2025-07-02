@@ -1,3 +1,3 @@
-hello world
+Manish
 I am using git
 In the terminal
