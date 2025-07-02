@@ -1,3 +1,6 @@
-hello world
+cory
 I am using git
 In the terminal
+
+
+cory was here 
